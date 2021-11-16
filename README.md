@@ -1,4 +1,4 @@
-# Alguns projetos
+# Projetos
 
 Alguns projetos feitos durante o Bootcamp
 
